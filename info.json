@@ -1,11 +1,11 @@
 {
     "name": "NukularFuel",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "title": "Nukular Fuel",
     "author": "civvi",
     "contact": "",
     "homepage": "",
-    "factorio_version": "0.18",
-    "dependencies": ["base >= 0.18"],
+    "factorio_version": "1.0",
+    "dependencies": ["base >= 1.0"],
     "description": "Nukular. Das Wort heißt: Nukular."
 }
